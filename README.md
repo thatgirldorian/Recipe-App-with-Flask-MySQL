@@ -6,7 +6,7 @@ This is a minimal recipe app that lets you:
 - register a new user
 - log in with the user created
 - create a new recipe
-- show the newly-created reipe on the dashboard
+- show the newly-created recipe on the dashboard
 
 
 <h3>Technology Used:</h3>
